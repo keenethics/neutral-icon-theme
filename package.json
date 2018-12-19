@@ -1,0 +1,31 @@
+{
+  "name": "keen-neutral-icon-theme",
+  "version": "1.0.0",
+  "displayName": "Keen neutral icon theme",
+  "description": "A simple icon pack",
+  "publisher": "keenethics",
+  "maintainers": [
+    "Sergey Gornostaev <svgornostaev@gmail.com>"
+  ],
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "keen-neutral-icon-theme",
+        "label": "Neutral (Keenethics)",
+        "path": "./fileicons/keen-neutral-icon-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keenethics/neutral-icon-theme.git"
+  },
+  "license": "MIT"
+}
