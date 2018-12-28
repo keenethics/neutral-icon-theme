@@ -1,6 +1,6 @@
 {
   "name": "keen-neutral-icon-theme",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "displayName": "Keen neutral icon theme",
   "description": "A simple icon pack",
   "publisher": "keenethics",
@@ -13,6 +13,11 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme"
   ],
   "contributes": {
     "iconThemes": [
@@ -27,5 +32,6 @@
     "type": "git",
     "url": "https://github.com/keenethics/neutral-icon-theme.git"
   },
+  "homepage": "https://github.com/keenethics/neutral-icon-theme/blob/master/README.md",
   "license": "MIT"
 }
