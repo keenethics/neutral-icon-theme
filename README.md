@@ -12,4 +12,4 @@ A light icon theme with minimal amount of visual noise for [Visual Studio Code](
 
 ## Preview
 
-<img src="preview.png" title="Neutral icons preview" width="420"/>
+<img src="https://github.com/keenethics/neutral-icon-theme/raw/master/preview.png" title="Neutral icons preview" width="420"/>
