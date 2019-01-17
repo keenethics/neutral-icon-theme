@@ -19,16 +19,13 @@
       "iconPath": "./images/light-file.svg"
     }
   },
-  "folderExpanded": "_dark_folder",
   "folder": "_dark_folder",
   "file": "_dark_file",
-  "rootFolderExpanded": "_dark_root_folder",
   "rootFolder": "_dark_root_folder",
   "light": {
-    "folderExpanded": "_light_folder",
     "folder": "_light_folder",
     "file": "_light_file",
-    "rootFolderExpanded": "_light_root_folder",
     "rootFolder": "_light_root_folder"
-  }
+  },
+  "hidesExplorerArrows": true
 }
