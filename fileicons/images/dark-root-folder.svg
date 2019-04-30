@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="30px" height="24px" viewBox="0 0 30 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
-    <title>Slice</title>
+    <title>folder-root</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="dark" transform="translate(-75.000000, 0.000000)" fill-rule="nonzero">
-            <g id="light-root-folder" transform="translate(75.000000, 1.000000)">
-                <path d="M12.0000034,0 C11.9426569,0 11.8803779,0 11.8125,0 C10.7604167,0 10.7604167,0 9.25,0 C5.77942421,0 5.55691035,0 1,0 C1,0.30509839 1,0.74475674 1,1.47709939 C1,3.76732261 1,3.76732261 1,6.70091175 C1,8.80732642 1,8.80732642 1,11 C1,15.3125 1,15.3125 1,18.96875 C1,20.5507813 1,20.5507813 1,21.7226563 C1,21.8260605 1,21.9179151 1,22 C13.3390347,22 13.5556209,22 22,22 C25.4583333,22 25.4583333,22 27.75,22 C28.3390073,22 28.7249338,22 29,22 C29,14.0330046 29,13.8176845 29,8.25 C29,5.6067232 29,4.62370277 29,4 C28.878516,4 28.7349223,4 28.5625,4 C27.21875,4 27.21875,4 25.25,4 C20.375,4 20.375,4 13,4 L12,4 L12,0 L12.0000034,0 Z" id="Combined-Shape" stroke="#949494" stroke-width="2" fill="#252526"></path>
-                <rect id="Path" fill="#949494" transform="translate(15.000000, 8.500000) scale(-1, 1) rotate(-180.000000) translate(-15.000000, -8.500000) " x="0" y="8" width="30" height="1"></rect>
-                <g id="root" transform="translate(6.000000, 13.000000)" fill="#949494">
-                    <circle id="Oval" cx="2" cy="2" r="2"></circle>
-                    <circle id="Oval" cx="9" cy="2" r="2"></circle>
-                    <circle id="Oval" cx="16" cy="2" r="2"></circle>
-                </g>
+        <g id="dark">
+            <g id="folder-root">
+                <path d="M0.5,0.5 C0.5,0.737694974 0.5,1.11014072 0.5,1.92130326 C0.5,3.78052492 0.5,3.78052492 0.5,5.99917459 C0.5,9.93397483 0.5,10.4157096 0.5,11.4999999 C4.7574673,11.5 4.84328896,11.5 7.20402071,11.5 C8.86675192,11.5 8.86675192,11.5 11.25,11.5 C12.5863431,11.5 12.5863431,11.5 13.2524961,11.5 C13.6939227,11.5 13.6939227,11.5 14.3303571,11.5 C14.396458,11.5 14.4521286,11.5 14.5,11.5 C14.5,10.887079 14.5,10.7211225 14.5,9.82373944 C14.5,6.99661995 14.5,6.99661995 14.5,4.60509278 C14.5,3.26313165 14.5,2.84188609 14.5,2.5 C14.2244764,2.5 13.7599316,2.5 12.7174596,2.5 C10.097883,2.5 10.097883,2.5 6,2.5 L5.6096118,2.5 L5.1096118,0.5 C4.35586018,0.5 3.9854873,0.5 1.23062317,0.5 C0.846266025,0.5 0.698968342,0.5 0.5,0.5 Z" id="base" stroke="#949494" fill="#252526" fill-rule="nonzero"></path>
+                <rect id="line" fill="#949494" fill-rule="nonzero" transform="translate(7.500000, 4.500000) scale(-1, 1) rotate(-180.000000) translate(-7.500000, -4.500000) " x="1" y="4" width="13" height="1"></rect>
+                <circle id="Oval" fill="#949494" cx="4.5" cy="8" r="1"></circle>
+                <circle id="Oval" fill="#949494" cx="7.5" cy="8" r="1"></circle>
+                <circle id="Oval" fill="#949494" cx="10.5" cy="8" r="1"></circle>
             </g>
         </g>
     </g>
